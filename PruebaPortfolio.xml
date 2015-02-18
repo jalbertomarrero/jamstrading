@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<MyPortfolio>
+    <update_date></update_date>
+    <initial_capital currency="CHF">10000.00</initial_capital>
+    <total_capital currency="CHF">6000.00</total_capital>
+    <invested_capital currency="CHF">5500.00</invested_capital>
+    <not_invested_capital currency="CHF">4500.00</not_invested_capital>
+    <performance units="%">8.5</performance>
+    <portfolio>
+        <asset id="1">
+            <Name>Tesla Motors Inc</Name>
+            <Market>NasdaqGS</Market>
+            <Symbol>TSLA</Symbol>
+            <Units>5</Units>
+            <Purchase_Price currency="USD" datetime="2014-12-20 09:30:05">220.34</Purchase_Price>
+            <Previous_Close currency="USD" datetime="2015-02-06 21:42:15">227.12</Previous_Close>
+            <Value currency="USD">1135.6</Value>
+            <Maximum_Close currency="USD" datetime="2015-02-03 20:22:56">231.95</Maximum_Close>
+            <Minimum_Close currency="USD" datetime="2014-12-28 22:02:07">226.91</Minimum_Close>
+            <Stop_Price currency="USD">202.96</Stop_Price>
+            <Add_Units_Price currency="USD">257.06</Add_Units_Price>
+        </asset>
+    </portfolio>
+</MyPortfolio>
